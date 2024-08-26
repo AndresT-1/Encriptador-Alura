@@ -262,11 +262,12 @@ header{
         width: 100% !important;
     }
     .contenedor_ingresar img{
-        width: 100%;
+        width: 100% !important;
+        
     }
     .contenedor_ingresar .contenedor_botones{
         display: flex;
-        flex-direction: column;
+        flex-wrap: wrap;
     }
     .contenedor_ingresar .contenedor_botones .btn_encriptar{
         width: 100% !important;
