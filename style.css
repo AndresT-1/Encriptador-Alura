@@ -257,8 +257,12 @@ header{
     .contenedor_ingresar textarea{
         width: 100% !important;
     }
+    
     textarea::placeholder {
         width: 100% !important;
+    }
+    .contenedor_ingresar img{
+        width: 100%;
     }
     .contenedor_ingresar .contenedor_botones{
         display: flex;
