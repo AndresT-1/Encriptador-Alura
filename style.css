@@ -205,16 +205,16 @@ header{
     }
     .contenedor_botones{
         justify-content: center !important;
-        gap: 10%;
+        gap: 20px;
         width: 100% !important;
 
     }
     .contenedor_botones .btn_desencriptar{
-        width: 40%  !important;
+        width: 50%  !important;
 
     }
     .contenedor_botones .btn_encriptar{
-        width: 40%  !important;
+        width: 50%  !important;
     }
     .seccion_encriptado{
 
